@@ -42,7 +42,9 @@ streamlit run chatapp.py
 3. **Ask questions**, and the AI will respond based on the document content
 
 ## 📷 Screenshot
-![Demo](img/demo.png)
+![Demo Image](img/demo.png)
+![Demo 1](img/demo1.png)
+![Demo 2](img/demo2.png)
 
 ## 🌟 Future Enhancements
 - 🔹 Support for more file formats (DOCX, TXT)
@@ -52,8 +54,4 @@ streamlit run chatapp.py
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 Developed by **Divya Prabha** 🚀
