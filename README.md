@@ -2,6 +2,9 @@
 
 DocuChat-AI is an AI-powered system that enables users to interactively chat with multiple PDFs. Leveraging advanced natural language processing (NLP) techniques, it extracts and understands content from documents, allowing users to ask questions and receive contextual responses.
 
+##Deployment Link
+https://chatbot-pdf-div-kav-har-ind.streamlit.app/
+
 ## 🚀 Features
 - 📄 Upload multiple PDFs and extract insights instantly
 - 🧠 AI-powered chatbot for document-based Q&A
